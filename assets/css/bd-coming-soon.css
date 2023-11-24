@@ -53,6 +53,12 @@ p {
     font-size: 14px;
     margin-bottom: 21px; }
 
+.footer-social-links .social-link.custom-social-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer-social-links {
     display: flex;
     justify-content: center;
